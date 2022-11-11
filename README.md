@@ -6,4 +6,4 @@ added from github
 another addition from pycharm
 fifth addition from pycharm
 6th add from diff branch github
-myadd 7th version
+my add 7th version
