@@ -1,3 +1,5 @@
 # mybeginning
+this is addition from pycharm
 beginning code project
 this prooject is beginning to examine data science material
+added from pycharm
