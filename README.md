@@ -7,3 +7,12 @@ another addition from pycharm
 fifth addition from pycharm
 6th add from diff branch github
 my add 7th version
+
+## mybeginning sub section
+
+this contains subsection details of mybeginning
+
+
+### third subsection
+
+Thi is third sub category
